@@ -4,7 +4,7 @@
 
 # How to REQUIRE() ?
 ```lua
-local PrintLib = require(game:HttpGet("https://raw.githubusercontent.com/Underssky/ColoredPrintsLib/refs/heads/main/ColorPrintLibrary")()
+local PrintLib = require(game:HttpGet("https://raw.githubusercontent.com/Underssky/ColoredPrintsLib/refs/heads/main/ColorPrintLibrary.luau")()
 ```
 
 # How to USE?
