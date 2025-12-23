@@ -8,7 +8,7 @@ local PrintLibCode = game:HttpGet("https://raw.githubusercontent.com/Underssky/C
 local PrintLib = loadstring(PrintLibCode)()
 ```
 
-### ExampleOfPrints
+### ExampleOfPrints (So ai killed smooth switching colors i will fix it tomorrow)
 ```lua
 local libraryCode = game:HttpGet("https://raw.githubusercontent.com/Underssky/ColoredPrintsLib/refs/heads/main/ColorPrintLibrary.luau")
 local PrintLib = loadstring(libraryCode)()
